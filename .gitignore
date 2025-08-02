@@ -1,1 +1,5 @@
 .vscode
+*.csv
+.train
+.validation
+.test
