@@ -1,8 +1,4 @@
 .vscode
 *.csv
-train
-validation
-test
 results/
 salamandra-7b-instruct
-offload
